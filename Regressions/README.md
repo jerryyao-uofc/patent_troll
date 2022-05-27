@@ -1,1 +1,1 @@
-Here is the instructions to replicate our regressions. 
+Here are the regressions we ran. 
